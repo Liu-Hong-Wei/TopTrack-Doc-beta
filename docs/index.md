@@ -3,16 +3,22 @@
 layout: home
 
 hero:
-  name: "TrackTop Doc demo"
-  text: "Doc for TrackTop"
-  tagline: My great project tagline
+  name: "ByteTop"
+  text: "巨巨巨好用的埋点SDK与数据平台一站式服务"
+  tagline: "为前端项目提供优雅且完善的监控方案"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始使用
+      link: /guide
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: SDK 文档
+      link: /sdk
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/Mzz2022/ByteTop
+    - theme: alt
+      text: 暂时的Markdown示例
+      link: /temp-md-examples/api-examples
 
 features:
   - title: Feature A
